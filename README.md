@@ -1,1 +1,1 @@
-# qudenaza.github.io
+# Проект базового интенсива HTML Academy "Nerds"
